@@ -1,6 +1,6 @@
-table, th, td {
+.articel-table table, th, td {
   border: 1px solid #dddddd;
 }
-td {
+.article-table td {
   background-color: #dddddd;
 }
